@@ -1,2 +1,2 @@
 # 225363_thanhphong
-bài tập buổi 5
+this repository is used for learning github on web
