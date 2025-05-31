@@ -1,2 +1,4 @@
 thanhphong
 coding, design
+skill: python, git
+xuantung.mtp
